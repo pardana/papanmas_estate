@@ -12,7 +12,7 @@ const Footer = () => {
         borderColor="gray.100"
       >
         <Link href="https://appardana.com/">
-          <a href=""> 2023 © Aditria Pardana | Papanmas Estate.</a>
+          2023 © Aditria Pardana | Papanmas Estate.
         </Link>
       </Box>
     </>
